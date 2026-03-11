@@ -1,0 +1,38 @@
+# Arquivo de Variáveis de Ambiente (SENHAS)
+.env
+env
+.env.local
+
+# Java e Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+*.class
+*.log
+*.ctxt
+.mtj.tmp/
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Virtual Machine Crash Logs
+hs_err_pid*
+
+# VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Arquivos do Sistema
+.DS_Store
+Thumbs.db
+
+# FIM 

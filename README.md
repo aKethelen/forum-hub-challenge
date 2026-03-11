@@ -4,6 +4,8 @@
   <img src="https://img.shields.io/badge/Java-17-blue?style=for-the-badge&logo=openjdk" alt="Java 17">
   <img src="https://img.shields.io/badge/Spring%20Boot-3.3.0-6db33f?style=for-the-badge&logo=spring" alt="Spring Boot 3.3.0">
   <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql" alt="MySQL">
+  <img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/bd0dec3b-83e6-4bcb-a71a-fdd07f25fe6b" />
+
 </p>
 
 ## Sobre o Projeto
